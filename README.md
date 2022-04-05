@@ -1,4 +1,4 @@
-This is my newly made github account.Please keep your recovery code when enabling MFA.
+This is my newly made github account. Please keep your recovery code when enabling MFA.
 
 - 👋 Hi, I’m @youkhi
 - 👀 I’m interested in tech and photography.
